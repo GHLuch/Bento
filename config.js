@@ -23,12 +23,12 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '4f26b17ac9f40ca171f130a3e225e3ce',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: '4f26b17ac9f40ca171f130a3e225e3ce', // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
   defaultLongitude: '-122.419',
 
