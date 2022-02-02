@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Ruslan',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -33,10 +33,10 @@ const CONFIG = {
   defaultLongitude: '-122.419',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
-  changeThemeByOS: true, 
+  changeThemeByOS: false, 
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: false,
