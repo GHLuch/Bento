@@ -81,9 +81,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -117,16 +117,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'VK',
+        link: 'https://vk.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'PenAddict',
+        link: 'https://www.penaddict.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'CultPens',
+        link: 'https://cultpens.com',
       },
       {
         name: 'Telegram',
