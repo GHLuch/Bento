@@ -63,9 +63,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'SingularityApp',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://web.singularity-app.com/#/',
     },
     {
       id: '4',
